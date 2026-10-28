@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript *A tissue-matched single-cell reference and benchmark for deconvolving human gingival mucosa*.
 
-The repository contains the analysis pipeline: single-cell reference construction, the leave-out mixture benchmark, multi-solver comparison, cohort deconvolution, methylation anchoring, hierarchical recovery, spatial validation, and the summary tables. Figure rendering and manuscript-generation scripts are not part of this repository.
+The repository contains the analysis pipeline: single-cell reference construction, the leave-out mixture benchmark, multi-solver comparison, cohort deconvolution, methylation anchoring, hierarchical recovery, spatial validation, and the summary tables.
 
 ## Repository layout
 
